@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Install, update and uninstall functions for the createsite installation profile.
+ * Install, update and uninstall functions for the hackroprofile installation profile.
  */
 
 /**
@@ -9,7 +9,7 @@
  *
  * Allows the profile to alter the site configuration form.
  */
-function createsite_form_install_configure_form_alter(&$form, $form_state) {
+function hackroprofile_form_install_configure_form_alter(&$form, $form_state) {
   // Set a default site name and email address.
   $form['site_information']['site_name']['#default_value']= t('Hackrobats Installation Profile');
   $form['site_information']['site_mail']['#default_value']= 'support@hackrobats.net';

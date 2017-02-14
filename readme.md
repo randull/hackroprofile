@@ -44,7 +44,7 @@ INSTALLATION INSTRUCTIONS
 
 1.) Execute the following line in your terminal:
 
-    sudo bash -c "$(curl -fsSL https://raw.github.com/randull/createsite/master/scripts/hackrobats/generatesite.sh)" -y
+    sudo bash -c "$(curl -fsSL https://raw.github.com/randull/hackroprofile/master/generatesite.sh)" -y
 
 2.) Navigate your browser to:
 

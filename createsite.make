@@ -168,6 +168,6 @@ libraries[simplepie][download][url] = "http://simplepie.org/downloads/simplepie_
 
 
 ; Custom Install Profile
-projects[createsite][type] = "profile"
-projects[createsite][download][type] = "git"
-projects[createsite][download][url] = "git://github.com/randull/createsite.git"
+projects[hackroprofile][type] = "profile"
+projects[hackroprofile][download][type] = "git"
+projects[hackroprofile][download][url] = "git://github.com/randull/hackroprofile.git"
