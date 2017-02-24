@@ -8,6 +8,7 @@ projects[] = drupal
 projects[advanced_help] = 1.x-dev
 projects[entityform] = 2.x-dev
 projects[media_browser_plus] = 3.x-dev
+projects[multiform] = 2.x-dev
 projects[views_tree] = 2.x-dev
 
 ; Prod Modules
@@ -75,7 +76,6 @@ projects[] = message_notify
 projects[] = message_subscribe
 projects[] = metatag
 projects[] = module_filter
-projects[] = multiform
 projects[] = nodeformsettings
 projects[] = nodequeue
 projects[] = nodereference_url
