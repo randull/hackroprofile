@@ -6,6 +6,7 @@ projects[] = drupal
 
 ; Dev Modules
 projects[advanced_help] = 1.x-dev
+projects[backup_migrate] = 3.x-dev
 projects[entityform] = 2.x-dev
 projects[media_browser_plus] = 3.x-dev
 projects[multiform] = 2.x-dev
@@ -16,7 +17,6 @@ projects[] = addressfield
 projects[] = admin_menu
 projects[] = admin_views
 projects[] = adminimal_admin_menu
-projects[] = backup_migrate
 projects[] = better_exposed_filters
 projects[] = better_formats
 projects[] = block_class
