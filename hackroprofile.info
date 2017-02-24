@@ -9,6 +9,7 @@ dependencies[] = block
 dependencies[] = blog
 dependencies[] = comment
 dependencies[] = contextual
+dependencies[] = dashboard
 dependencies[] = dblog
 dependencies[] = field_ui
 dependencies[] = file

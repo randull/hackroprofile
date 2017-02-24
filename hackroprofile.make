@@ -7,6 +7,7 @@ projects[] = drupal
 ; Dev Modules
 projects[advanced_help] = 1.x-dev
 projects[entityform] = 2.x-dev
+projects[media_browser_plus] = 3.x-dev
 projects[views_tree] = 2.x-dev
 
 ; Prod Modules
@@ -25,6 +26,7 @@ projects[] = browsersync
 projects[] = calendar
 projects[] = charts
 projects[] = ckeditor
+projects[] = ckeditor_media
 projects[] = colorbox
 projects[] = content_access
 projects[] = context
@@ -66,7 +68,6 @@ projects[] = link
 projects[] = linkit
 projects[] = logintoboggan
 projects[] = media
-projects[] = media_browser_plus
 projects[] = menu_block
 projects[] = menu_position
 projects[] = message
