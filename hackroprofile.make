@@ -50,7 +50,6 @@ projects[] = field_placeholder
 projects[] = file_entity
 projects[] = flag
 projects[] = flexslider
-projects[] = fontyourface
 projects[] = fpa
 projects[] = ga_push
 projects[] = geckoboardapi
