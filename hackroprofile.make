@@ -48,7 +48,6 @@ projects[] = feeds
 projects[] = field_group
 projects[] = field_placeholder
 projects[] = file_entity
-projects[] = flag
 projects[] = flexslider
 projects[] = fpa
 projects[] = ga_push
